@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "btUbsnTSv+8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trucl\\Test-Pepiline\\Test-Pepiline\\Test-Pepiline.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trucl\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\trucl\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
